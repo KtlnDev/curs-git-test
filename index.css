@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap");
-
+/* Modificare pentru git */
 body {
   margin: 0;
 }
@@ -20,7 +20,6 @@ header h1 {
   margin: 0;
   color: white;
   padding: 5px 0;
-  font-size: larger;
 }
 
 header img {
